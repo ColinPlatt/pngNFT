@@ -1,0 +1,4 @@
+solmate/=lib/solmate/src/
+forge-std/=lib/forge-std/src/
+PNG/=lib/PNG/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
